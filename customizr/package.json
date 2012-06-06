@@ -5,8 +5,8 @@
   , "keywords": ["modernizr", "html5", "feature detection"]
   , "author": "Kevin Gorski <kevin.gorski@gmail.com>"
   , "dependencies": { 
-      "commander": "0.1.0"
-    , "uglify-js": "1.0.7" }
+      "commander": ">=0.1.0"
+    , "uglify-js": ">=1.0.7" }
   , "bin": { "modernizr": "./bin/modernizr" }
-  , "engines": { "node": "0.4.x" }
+  , "engines": { "node": ">=0.4.x" }
 }
